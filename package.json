@@ -1,0 +1,27 @@
+{
+    "name": "jsmicro-foreach",
+    "version": "1.0.0",
+    "description": "Iterate Array, Object, String, Number, and Arguments, support reversed mode.",
+    "main": "main.js",
+    "scripts": {
+        "test": "node test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/jsmicro/foreach.git"
+    },
+    "keywords": [
+        "foreach",
+        "for each",
+        "iteration"
+    ],
+    "author": "Nanang Mahdaen El Agung <nanang@mahdaen.name> (http://mahdaen.name)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/jsmicro/foreach/issues"
+    },
+    "homepage": "https://github.com/jsmicro/foreach#readme",
+    "devDependencies": {
+        "jsmicro-test": "^1.0.1"
+    }
+}
