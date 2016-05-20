@@ -1,5 +1,6 @@
 {
     "name": "jsmicro-foreach",
+    "version": "1.0.1",
     "description": "Iterate Array, Object, String, Number, and Arguments, support reversed mode.",
     "main": "index.js",
     "authors": [

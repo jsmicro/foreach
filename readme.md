@@ -137,6 +137,10 @@ foreach(100).run(function(i, n, next, stop) {
 
 ## Changelogs
 
+#### **`v1.0.1 - May 21, 2016`**
+
+* Added .npmignore
+
 #### **`v1.0.0 - May 20, 2016`**
 
 * Initial release.
