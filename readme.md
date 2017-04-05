@@ -76,11 +76,11 @@ bower install --save jsmicro-foreach
 ## NodeJS Usage
 
 ```bash
-npm install --save jsmicro-foreach
+npm install --save @jsmicro/foreach
 ```
 
 ```js
-require('jsmicro-foreach');
+require('@jsmicro/foreach');
 
 // Iterating array.
 foreach([1,2,3], function(i, v) {
